@@ -11,7 +11,8 @@ Inquirer
 
 ## Usage:
 
-<img src="C:\Users\kpham\code\team-profile-generator\img\team-prof-gen.png" alt text="Page-display">
+Display of what page looks like:
+![Multiple profiles are displayed with information about the manager, engineer, or intern.](./img/team-prof-gen.png)
 
 ## Video:
 https://watch.screencastify.com/v/3n2BBzRWXjwNqin3n650
