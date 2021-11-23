@@ -11,7 +11,7 @@ Inquirer
 
 ## Usage:
 
-![Page display](C:\Users\kpham\code\team-profile-generator\img\team-prof-gen.png)
+<img src="C:\Users\kpham\code\team-profile-generator\img\team-prof-gen.png" alt text="Page-display">
 
 ## Video:
 https://watch.screencastify.com/v/3n2BBzRWXjwNqin3n650
